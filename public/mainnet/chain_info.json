@@ -51,8 +51,8 @@
   {
     "chainId": "pacific-1",
     "chainName": "SEI Mainnet",
-    "rpc": "https://sei-rpc.polkachu.com/",
-    "rest": "https://sei-api.polkachu.com/",
+    "rpc": "https://rpc.wallet.pacific-1.sei.io/",
+    "rest": "https://rest.wallet.pacific-1.sei.io/",
     "icon": "/logos/sei.svg",
     "network_type": "mainnet",
     "label": "Sei",
